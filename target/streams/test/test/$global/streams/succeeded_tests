@@ -1,3 +1,5 @@
 #Successful Tests
-#Fri May 17 16:13:13 BST 2019
-recfun.PascalSuite=1558105993030
+#Fri May 17 16:26:17 BST 2019
+recfun.CountChangeSuite=1558106777564
+recfun.PascalSuite=1558106777567
+recfun.BalanceSuite=1558106777564
