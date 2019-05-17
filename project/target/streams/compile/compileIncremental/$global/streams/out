@@ -18,7 +18,7 @@
 [info] Compiling 8 Scala sources to C:\development\repo_clones\coursera-assignments\week-1\project\target\scala-2.10\sbt-0.13\classes...
 [debug] Getting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7
 [debug] Getting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7
-[debug] Running cached compiler ddaa7a2, interfacing (CompilerInterface) with Scala compiler version 2.10.7
+[debug] Running cached compiler 75271b50, interfacing (CompilerInterface) with Scala compiler version 2.10.7
 [debug] Calling Scala compiler with arguments  (CompilerInterface):
 [debug] 	-deprecation
 [debug] 	-bootclasspath
@@ -29,7 +29,7 @@
 [warn] trait CommonBuild extends Build {
 [warn]                           ^
 [warn] one warning found
-[debug] Scala compilation took 14.888095051 s
+[debug] Scala compilation took 13.651468076 s
 [debug] [naha] Invalidating C:\development\repo_clones\coursera-assignments\week-1\project\StudentBuild.scala...
 [debug] [naha] Invalidating (transitively) by inheritance from C:\development\repo_clones\coursera-assignments\week-1\project\StudentBuild.scala...
 [debug] [naha] Initial set of included nodes: Set(C:\development\repo_clones\coursera-assignments\week-1\project\StudentBuild.scala)

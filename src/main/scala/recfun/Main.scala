@@ -13,7 +13,10 @@ object Main {
   /**
    * Exercise 1
    */
-    def pascal(c: Int, r: Int): Int = ???
+    def pascal(column: Int, row: Int): Int =
+      if (column < 0 || row < 0) 0
+      else if ((row == column) || (column == 0)) 1
+      else pascal(column-1, row-1) + pascal(column, row-1)
   
   /**
    * Exercise 2
